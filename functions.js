@@ -20,6 +20,7 @@ function largestNum(arr) {
             num = arr[i];
         }
     }
+    return num;
 }
 
 
