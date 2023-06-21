@@ -20,3 +20,5 @@ function divisibleByTwo(num) {
 
 
 firstLetterName("Susan");
+
+divisibleByTwo(6);
