@@ -4,6 +4,10 @@ function firstLetterName(name) {
     alert("The name " + name + " starts with the letter " + str.charAt(0));
 }
 
+function divisibleByTwo(num) {
+    
+}
+
 
 
 
