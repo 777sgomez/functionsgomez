@@ -5,7 +5,12 @@ function firstLetterName(name) {
 }
 
 function divisibleByTwo(num) {
-    
+    if (num % 2 == 0) {
+        return true;
+    }
+    else {
+        return false;
+    }
 }
 
 
